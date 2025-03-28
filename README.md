@@ -11,7 +11,7 @@ Deployed on Vercel
 Installation
 Follow the steps below to install and run the application locally:
 
-Clone the repository: git clone https://github.com/Nikhil-1402/EmployWise.git
+Clone the repository: git clone https://relaxed-pavlova-325efe.netlify.app/
 
 Install dependencies: npm install or yarn install
 
