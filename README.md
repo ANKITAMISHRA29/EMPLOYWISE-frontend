@@ -45,8 +45,8 @@ Assumptions
 Availability of Reqres API.
 Correct credentials for login.
 Contact
-Your Name: Nikhil Kumar Gupta
-Email: nikhillko1402@gmail.com
-GitHub: Nikhil-1402
+Your Name: ANKITA MISHRA
+Email: ankitamishra12d@gmail.com
+GitHub: ANKITAMISHRA29
 Hosted Link
-https://employ-wise.vercel.app/
+https://relaxed-pavlova-325efe.netlify.app/
